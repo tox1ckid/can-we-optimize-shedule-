@@ -1,5 +1,8 @@
 # can-we-optimize-shedule-
 our school group research about optimization of schedule
+
+(код проекта, видеоролики доступны в презентации по qr-code, которые очень быстро читаются с первого приложения в плей маркете по скану qr-code, но почему-то не с обычной камеры...)
+
 И так, что же это такое? Можно сказать, что это и удавшийся проект и неудавшийся проект...
 Удавшийся:
 1. Опыт работы
@@ -12,3 +15,5 @@ our school group research about optimization of schedule
 
 
 (... - тут что-то появится)
+
+
