@@ -1,6 +1,6 @@
 # can-we-optimize-shedule-
 our school group research about optimization of schedule
-И так, что же это такое? Можно сказать, что это и удавшийся проект, и неудавшийся проект...
+И так, что же это такое? Можно сказать, что это и удавшийся проект и неудавшийся проект...
 Удавшийся:
 1. Опыт работы
 2. Тонна research про Fuzzy-graph, про AutoML, Backprop.
