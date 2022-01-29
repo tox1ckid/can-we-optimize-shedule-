@@ -3,15 +3,16 @@ our school group research about optimization of schedule
 
 (код проекта, видеоролики доступны в презентации по qr-code, которые очень быстро читаются с первого приложения в плей маркете по скану qr-code, но почему-то не с обычной камеры...
 Либо вот они представлены:
-https://asciinema.org/a/HNxBFYSzus6RPJjrmULxUulxM
 
-https://gist.github.com/rusyaew/ea8cb4aaabe7eadff801c5f024bf4935
+https://clck.ru/aqQBN
 
-https://gist.github.com/rusyaew/5af431957c137934a707c9ba11117aa3
+https://clck.ru/aqQBQ
 
-https://gist.github.com/rusyaew/f127d40a18248c3f7b3e031582ccb629
+https://clck.ru/aqQBS
 
-https://gist.github.com/rusyaew/583a98ace237e084fe1517e2b7ea7faf
+https://clck.ru/aqQBX
+
+https://clck.ru/aqQBe
 
 (Русяев - мой сокомандник)
 )
